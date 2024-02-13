@@ -1,95 +1,95 @@
 const perguntas = [
-    {
-      pergunta: "Qual é a função utilizada para imprimir algo na tela?",
-      resposta:[
-        "print()",
-        "display()",
-        "show()",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a palavra-chave utilizada para definir uma função em Python?",
-      resposta:[
-        "define",
-        "function",
-        "def",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é o operador usado para calcular o resto de uma divisão em Python?",
-      resposta:[
-        "%",
-        "/",
-        "//",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é o tipo de dado que pode armazenar sequências ordenadas em Python?",
-      resposta:[
-        "lista",
-        "conjunto",
-        "dicionário",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é o método utilizado para adicionar um elemento ao final de uma lista em Python?",
-      resposta:[
-        "append()",
-        "add()",
-        "insert()",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a palavra-chave utilizada para iniciar um loop em Python?",
-      resposta:[
-        "loop",
-        "for",
-        "while",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a função utilizada para obter o tamanho de uma lista em Python?",
-      resposta:[
-        "size()",
-        "length()",
-        "len()",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é o operador de atribuição em Python?",
-      resposta:[
-        "=",
-        "==",
-        ":=",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a função utilizada para converter um valor para inteiro em Python?",
-      resposta:[
-        "to_int()",
-        "int()",
-        "integer()",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a forma correta de iniciar um comentário de uma linha em Python?",
-      resposta:[
-        "//",
-        "/*",
-        "#",
-      ],
-      correta: 2
-    },
-  ]
+  {
+    pergunta: "Qual é o primeiro livro do Velho Testamento da Bíblia?",
+    resposta:[
+      "Êxodo",
+      "Gênesis",
+      "Levítico",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Quem foi o líder que conduziu os israelitas para fora do Egito?",
+    resposta:[
+      "Moisés",
+      "Josué",
+      "Abraão",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual profeta passou três dias dentro de uma grande peixe?",
+    resposta:[
+      "Jonas",
+      "Isaías",
+      "Jeremias",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o livro que contém os Salmos?",
+    resposta:[
+      "Salmos",
+      "Provérbios",
+      "Eclesiastes",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Quem construiu a Arca de Noé?",
+    resposta:[
+      "Noé",
+      "Abraão",
+      "Jacó",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o livro que conta a história de José, filho de Jacó?",
+    resposta:[
+      "Gênesis",
+      "Êxodo",
+      "Levítico",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Quem foi o rei mais sábio de Israel?",
+    resposta:[
+      "Salomão",
+      "Davi",
+      "Saul",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual profeta enfrentou os profetas de Baal no Monte Carmelo?",
+    resposta:[
+      "Elias",
+      "Isaías",
+      "Ezequiel",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Quem recebeu as Tábuas da Lei no Monte Sinai?",
+    resposta:[
+      "Moisés",
+      "Josué",
+      "Abraão",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o livro que contém a história de Rute?",
+    resposta:[
+      "Rute",
+      "Juízes",
+      "Esdras",
+    ],
+    correta: 0
+  },
+];
 
   // pegar elementos no html
   const quiz = document.querySelector('#quiz')
