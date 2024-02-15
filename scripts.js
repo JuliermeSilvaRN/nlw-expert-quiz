@@ -1,91 +1,91 @@
 const perguntas = [
   {
-    pergunta: "Qual é o primeiro livro do Velho Testamento da Bíblia?",
+    pergunta: "Quem foi o autor do Evangelho de Mateus?",
     resposta:[
-      "Êxodo",
-      "Gênesis",
-      "Levítico",
+      "Mateus",
+      "Lucas",
+      "João",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual dos apóstolos de Jesus era conhecido como 'o discípulo amado'?",
+    resposta:[
+      "Pedro",
+      "Tiago",
+      "João",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual foi o primeiro milagre de Jesus, de acordo com o Evangelho de João?",
+    resposta:[
+      "Transformar água em vinho",
+      "Caminhar sobre as águas",
+      "Multiplicar os pães e peixes",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Quem foi o fariseu que procurou Jesus durante a noite para conversar com ele?",
+    resposta:[
+      "Nicodemos",
+      "Pilatos",
+      "Cleópatra",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual dos apóstolos negou Jesus três vezes antes de seu julgamento?",
+    resposta:[
+      "Pedro",
+      "João",
+      "Tiago",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o nome do local onde Jesus foi crucificado?",
+    resposta:[
+      "Gólgota",
+      "Betânia",
+      "Belém",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Quantos apóstolos Jesus tinha?",
+    resposta:[
+      "12",
+      "10",
+      "7",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Quem foi o escriba que perguntou a Jesus sobre o maior mandamento?",
+    resposta:[
+      "Mateus",
+      "Lucas",
+      "Judas",
     ],
     correta: 1
   },
   {
-    pergunta: "Quem foi o líder que conduziu os israelitas para fora do Egito?",
+    pergunta: "Qual foi o discurso de Jesus conhecido como 'Sermão do Monte'?",
     resposta:[
-      "Moisés",
-      "Josué",
-      "Abraão",
+      "Mateus 5-7",
+      "Lucas 10-12",
+      "João 13-15",
     ],
     correta: 0
   },
   {
-    pergunta: "Qual profeta passou três dias dentro de uma grande peixe?",
+    pergunta: "Quem era o governador da Judeia durante o julgamento de Jesus?",
     resposta:[
-      "Jonas",
-      "Isaías",
-      "Jeremias",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Qual é o livro que contém os Salmos?",
-    resposta:[
-      "Salmos",
-      "Provérbios",
-      "Eclesiastes",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Quem construiu a Arca de Noé?",
-    resposta:[
-      "Noé",
-      "Abraão",
-      "Jacó",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Qual é o livro que conta a história de José, filho de Jacó?",
-    resposta:[
-      "Gênesis",
-      "Êxodo",
-      "Levítico",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Quem foi o rei mais sábio de Israel?",
-    resposta:[
-      "Salomão",
-      "Davi",
-      "Saul",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Qual profeta enfrentou os profetas de Baal no Monte Carmelo?",
-    resposta:[
-      "Elias",
-      "Isaías",
-      "Ezequiel",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Quem recebeu as Tábuas da Lei no Monte Sinai?",
-    resposta:[
-      "Moisés",
-      "Josué",
-      "Abraão",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Qual é o livro que contém a história de Rute?",
-    resposta:[
-      "Rute",
-      "Juízes",
-      "Esdras",
+      "Pilatos",
+      "Herodes",
+      "Caifás",
     ],
     correta: 0
   },
